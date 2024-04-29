@@ -1,6 +1,6 @@
 # servisuruntakipportali
 
-A new Flutter project.
+Birinci Tatlı firması için tasarlanmış, mükemmel olmasa da samimi bir mobil uygulama.
 
 ## Getting Started
 
